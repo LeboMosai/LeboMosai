@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeboMosai
-- 👀 I’m interested in ...being a code developer
+- 👀 I’m interested in ...being a Web developer
 - 🌱 I’m currently learning ...HTML/CSS
 - 📫 How to reach me ... kelebogile30@yahoo.com
 - 😄 Pronouns: ...She/Her
